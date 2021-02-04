@@ -1,0 +1,14 @@
+C:\Users\andre\source\repos\Aula01\Aula01\bin\Debug\Aula01.exe.config
+C:\Users\andre\source\repos\Aula01\Aula01\bin\Debug\Aula01.exe
+C:\Users\andre\source\repos\Aula01\Aula01\bin\Debug\Aula01.pdb
+C:\Users\andre\source\repos\Aula01\Aula01\obj\Debug\Aula01.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\Aula01\Aula01\obj\Debug\Aula01.Properties.Resources.resources
+C:\Users\andre\source\repos\Aula01\Aula01\obj\Debug\Aula01.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\Aula01\Aula01\obj\Debug\Aula01.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Aula01\Aula01\obj\Debug\Aula01.exe
+C:\Users\andre\source\repos\Aula01\Aula01\obj\Debug\Aula01.pdb
+C:\Users\andre\source\repos\Aula01\Aula01\obj\Debug\Aula01.FrmPrincipal.resources
+C:\Users\andre\source\repos\Aula01\Aula01\obj\Debug\Aula01.FrmSegundo.resources
+C:\Users\andre\source\repos\Aula01\Aula01\obj\Debug\Aula01.Frm3.resources
+C:\Users\andre\source\repos\Aula01\Aula01\obj\Debug\Aula01.Frm4.resources
+C:\Users\andre\source\repos\Aula01\Aula01\obj\Debug\Aula01.Frm5.resources
